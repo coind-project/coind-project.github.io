@@ -15,16 +15,16 @@ highlighter: rouge
 
 
 ### content configuration ###
-title: Danish Reproducibility Network
-keywords: reproducibility, open science
+title: CO-IND Project
+keywords: cognition, intellectual disability
 description:
 #source_link:
 #favicon: favicon.png?
-url: https://danish-repro.github.io
+url: https://coind-project.github.io/
 
 
 countdown:
-  launch_date: 2019-02-28
+  launch_date: 2024-06-26
   format: "%d days, %H hours, %M minutes, %S seconds" 
 
 ### template colors, used site-wide via css ###
