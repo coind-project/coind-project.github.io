@@ -10,7 +10,7 @@ color: coindblue
 <div id="profile-container">
 {% include advisory-card.html avatarurl="" profilename="Henrik Danielsson" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/henda52" talk_link="" %}
 
-{% include advisory-card.html avatarurl="" profilename="Marta Topor" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/marto05" talk_link="" %}  
+{% include advisory-card.html avatarurl="M_Topor.png" profilename="Marta Topor" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/marto05" talk_link="" %}  
 </div>
 
 # The Conceptualisation and Advisory Team  
