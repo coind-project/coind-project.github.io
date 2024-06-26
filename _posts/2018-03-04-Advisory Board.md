@@ -4,7 +4,8 @@ bg: white
 color: coindblue
 ---  
   
-# **Project Coordinators**
+# **Advisory Board**  
+# Project Coordinators
 
 <div id="profile-container">
 {% include advisory-card.html avatarurl="" profilename="Henrik Danielsson" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/henda52" talk_link="" %}
@@ -12,7 +13,7 @@ color: coindblue
 {% include advisory-card.html avatarurl="" profilename="Marta Topor" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/marto05" talk_link="" %}  
 </div>
 
-# **The Conceptualisation and Advisory Team**  
+# The Conceptualisation and Advisory Team  
 
 <div id="profile-container">
 {% include advisory-card.html avatarurl="" profilename="Lucija Batinović" affiliation="Linköping University, Sweden" homepage="https://liu.se/medarbetare/lucba99" talk_link="" %}
