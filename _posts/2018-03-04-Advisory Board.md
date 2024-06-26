@@ -1,3 +1,9 @@
+---
+title: "Advisory Board"
+bg: white
+color: coindblue
+---  
+  
 # Project Coordinators
 
 <div id="profile-container">
