@@ -16,7 +16,7 @@ color: coindblue
 # The Conceptualisation and Advisory Team  
 
 <div id="profile-container">
-{% include advisory-card.html avatarurl="" profilename="Lucija Batinović" affiliation="Linköping University, Sweden" homepage="https://liu.se/medarbetare/lucba99" talk_link="" %}
+{% include advisory-card.html avatarurl="lucija.png" profilename="Lucija Batinović" affiliation="Linköping University, Sweden" homepage="https://liu.se/medarbetare/lucba99" talk_link="" %}
   
 {% include advisory-card.html avatarurl="" profilename="Emily Farran" affiliation="University of Surrey, England" homepage="https://www.surrey.ac.uk/people/emily-farran" talk_link="" %}
   
