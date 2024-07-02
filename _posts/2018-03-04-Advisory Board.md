@@ -32,7 +32,7 @@ color: coindblue
 
 {% include advisory-card.html avatarurl="" profilename="David Messer" affiliation="Open University, England" homepage="https://research.open.ac.uk/people/djm783-0" talk_link="" %}  
   
-{% include advisory-card.html avatarurl="" profilename="Karin Nilsson" affiliation="Linköping University, Sweden" homepage="https://liu.se/medarbetare/karni79" talk_link="" %} 
+{% include advisory-card.html avatarurl="karin.jpg" profilename="Karin Nilsson" affiliation="Linköping University, Sweden" homepage="https://liu.se/medarbetare/karni79" talk_link="" %} 
 </div>  
 
 <div id="profile-container">
@@ -42,7 +42,7 @@ color: coindblue
 
 {% include advisory-card.html avatarurl="" profilename="Gaia Scerif" affiliation="University of Oxford, England" homepage="https://www.psy.ox.ac.uk/people/gaia-scerif" talk_link="" %}  
 
-{% include advisory-card.html avatarurl="" profilename="Priya Silverstein" affiliation="Ashland University, US" homepage="https://www.priyasilverstein.com/" talk_link="" %}
+{% include advisory-card.html avatarurl="priya.jpg" profilename="Priya Silverstein" affiliation="Ashland University, US" homepage="https://www.priyasilverstein.com/" talk_link="" %}
 </div>
 
 
