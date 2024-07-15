@@ -36,7 +36,7 @@ color: coindblue
 </div>  
 
 <div id="profile-container">
-{% include advisory-card.html avatarurl="" profilename="Sara Onnivello" affiliation="University of Padova, Italy" homepage="https://www.dpss.unipd.it/en/onnivello-sara" talk_link="" %}  
+{% include advisory-card.html avatarurl="sara.jpg" profilename="Sara Onnivello" affiliation="University of Padova, Italy" homepage="https://www.dpss.unipd.it/en/onnivello-sara" talk_link="" %}  
 
 {% include advisory-card.html avatarurl="Lisa.JPG" profilename="Lisa Palmqvist" affiliation="University of Gothenburg, Sweden" homepage="https://www.gu.se/en/about/find-staff/lisapalmqvist" talk_link="" %}  
 
