@@ -20,7 +20,7 @@ color: coindblue
   
 {% include advisory-card.html avatarurl="" profilename="Emily Farran" affiliation="University of Surrey, England" homepage="https://www.surrey.ac.uk/people/emily-farran" talk_link="" %}
   
-{% include advisory-card.html avatarurl="" profilename="Lucy Henry" affiliation="City University of London, England" homepage="https://www.city.ac.uk/about/people/academics/lucy-henry#" talk_link="" %}  
+{% include advisory-card.html avatarurl="LucyH.jpg" profilename="Lucy Henry" affiliation="City University of London, England" homepage="https://www.city.ac.uk/about/people/academics/lucy-henry#" talk_link="" %}  
 
 {% include advisory-card.html avatarurl="" profilename="Jo Van Herwegen" affiliation="University College London, England" homepage="https://profiles.ucl.ac.uk/71113-jo-van-herwegen" talk_link="" %}
 
