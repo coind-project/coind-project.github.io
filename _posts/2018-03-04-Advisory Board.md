@@ -30,9 +30,9 @@ color: coindblue
 <div id="profile-container">
 {% include advisory-card.html avatarurl="CJ.jpg" profilename="Christopher Jarrold" affiliation="University of Bristol, England" homepage="https://www.bristol.ac.uk/people/person/Christopher-Jarrold-490f0d49-39bf-403e-b11c-2ef83abc816f/" talk_link="" %}
 
-{% include advisory-card.html avatarurl="" profilename="Silvia Lanfranchi" affiliation="University of Padova, Italy" homepage="https://dpss.unipd.it/en/silvia-lanfranchi" talk_link="" %}
+{% include advisory-card.html avatarurl="silvia.lanfranchi.jpg" profilename="Silvia Lanfranchi" affiliation="University of Padova, Italy" homepage="https://dpss.unipd.it/en/silvia-lanfranchi" talk_link="" %}
 
-{% include advisory-card.html avatarurl="" profilename="David Messer" affiliation="Open University, England" homepage="https://research.open.ac.uk/people/djm783-0" talk_link="" %}  
+{% include advisory-card.html avatarurl="DavidMesser.jpg" profilename="David Messer" affiliation="Open University, England" homepage="https://research.open.ac.uk/people/djm783-0" talk_link="" %}  
   
 {% include advisory-card.html avatarurl="karin.jpg" profilename="Karin Nilsson" affiliation="Linköping University, Sweden" homepage="https://liu.se/medarbetare/karni79" talk_link="" %} 
 </div>  
