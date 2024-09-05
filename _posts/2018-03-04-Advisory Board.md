@@ -24,7 +24,7 @@ color: coindblue
 
 {% include advisory-card.html avatarurl="" profilename="Jo Van Herwegen" affiliation="University College London, England" homepage="https://profiles.ucl.ac.uk/71113-jo-van-herwegen" talk_link="" %}
 
-{% include advisory-card.html avatarurl="" profilename="Magnus Ivarsson" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/magiv10" talk_link="" %}
+{% include advisory-card.html avatarurl="Magnus.jpg" profilename="Magnus Ivarsson" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/magiv10" talk_link="" %}
 </div>  
 
 <div id="profile-container">
