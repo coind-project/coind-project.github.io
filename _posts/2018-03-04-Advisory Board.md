@@ -8,7 +8,7 @@ color: coindblue
 # Project Coordinators
 
 <div id="profile-container">
-{% include advisory-card.html avatarurl="" profilename="Henrik Danielsson" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/henda52" talk_link="" %}
+{% include advisory-card.html avatarurl="Henrik.jpg" profilename="Henrik Danielsson" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/henda52" talk_link="" %}
 
 {% include advisory-card.html avatarurl="M_Topor.png" profilename="Marta Topor" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/marto05" talk_link="" %}  
 </div>
@@ -18,7 +18,7 @@ color: coindblue
 <div id="profile-container">
 {% include advisory-card.html avatarurl="lucija.png" profilename="Lucija Batinović" affiliation="Linköping University, Sweden" homepage="https://liu.se/medarbetare/lucba99" talk_link="" %}
   
-{% include advisory-card.html avatarurl="" profilename="Emily Farran" affiliation="University of Surrey, England" homepage="https://www.surrey.ac.uk/people/emily-farran" talk_link="" %}
+{% include advisory-card.html avatarurl="Emily.jpg" profilename="Emily Farran" affiliation="University of Surrey, England" homepage="https://www.surrey.ac.uk/people/emily-farran" talk_link="" %}
   
 {% include advisory-card.html avatarurl="LucyH.jpg" profilename="Lucy Henry" affiliation="City University of London, England" homepage="https://www.city.ac.uk/about/people/academics/lucy-henry#" talk_link="" %}  
 
