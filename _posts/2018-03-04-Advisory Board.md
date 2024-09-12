@@ -22,7 +22,7 @@ color: coindblue
   
 {% include advisory-card.html avatarurl="LucyH.jpg" profilename="Lucy Henry" affiliation="City University of London, England" homepage="https://www.city.ac.uk/about/people/academics/lucy-henry#" talk_link="" %}  
 
-{% include advisory-card.html avatarurl="" profilename="Jo Van Herwegen" affiliation="University College London, England" homepage="https://profiles.ucl.ac.uk/71113-jo-van-herwegen" talk_link="" %}
+{% include advisory-card.html avatarurl="Jo.png" profilename="Jo Van Herwegen" affiliation="University College London, England" homepage="https://profiles.ucl.ac.uk/71113-jo-van-herwegen" talk_link="" %}
 
 {% include advisory-card.html avatarurl="Magnus.jpg" profilename="Magnus Ivarsson" affiliation="Linköping University, Sweden" homepage="https://liu.se/en/employee/magiv10" talk_link="" %}
 </div>  
@@ -42,7 +42,7 @@ color: coindblue
 
 {% include advisory-card.html avatarurl="Lisa.JPG" profilename="Lisa Palmqvist" affiliation="University of Gothenburg, Sweden" homepage="https://www.gu.se/en/about/find-staff/lisapalmqvist" talk_link="" %}  
 
-{% include advisory-card.html avatarurl="" profilename="Gaia Scerif" affiliation="University of Oxford, England" homepage="https://www.psy.ox.ac.uk/people/gaia-scerif" talk_link="" %}  
+{% include advisory-card.html avatarurl="Gaia.jpg" profilename="Gaia Scerif" affiliation="University of Oxford, England" homepage="https://www.psy.ox.ac.uk/people/gaia-scerif" talk_link="" %}  
 
 {% include advisory-card.html avatarurl="priya.jpg" profilename="Priya Silverstein" affiliation="Ashland University, US" homepage="https://www.priyasilverstein.com/" talk_link="" %}
 </div>
