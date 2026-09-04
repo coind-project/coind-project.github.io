@@ -44,7 +44,7 @@ color: coindblue
 
 {% include advisory-card.html avatarurl="Gaia.jpg" profilename="Gaia Scerif" affiliation="University of Oxford, England" homepage="https://www.psy.ox.ac.uk/people/gaia-scerif" talk_link="" %}  
 
-{% include advisory-card.html avatarurl="priya.jpg" profilename="Priya Silverstein" affiliation="Ashland University, US" homepage="https://www.priyasilverstein.com/" talk_link="" %}
+{% include advisory-card.html avatarurl="priya.jpg" profilename="Priya Silverstein" affiliation="University of Coimbra, Portugal" homepage="https://www.priyasilverstein.com/" talk_link="" %}
 </div>
 
 
